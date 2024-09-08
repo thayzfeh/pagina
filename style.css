@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    width: 20px;
+}
+table{
+    border-collapse: collapse;
+    margin: auto;
+}
+td,th{
+    padding: 10px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+tr:nth-child(even){
+    background-color: rgba(247, 98, 247, 0.849);
+}
